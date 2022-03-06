@@ -14,5 +14,4 @@ const SimpleCounter = () => {
     );
 };
 
-
 export default SimpleCounter;

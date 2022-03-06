@@ -17,5 +17,4 @@ const Say = () => {
     );
 };
 
-
 export default Say;

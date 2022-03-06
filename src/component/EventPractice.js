@@ -22,5 +22,4 @@ class EventPractice extends Component {
     }
 }
 
-
 export default EventPractice;

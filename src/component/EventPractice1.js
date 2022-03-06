@@ -20,7 +20,6 @@ const EventPractice1 = () => {
         setForm(nextForm);
         // 복사하고 변경한 form을 set으로 등록
     };
-
     
     const onClick = () => {
         alert(username + ' : ' + message);

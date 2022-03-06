@@ -32,5 +32,4 @@ const Info2 = () => {
     );
 };
 
-
 export default Info2;

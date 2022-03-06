@@ -39,5 +39,4 @@ class Validation extends Component {
     }
 }
 
-
 export default Validation;
