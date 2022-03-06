@@ -33,6 +33,7 @@ const Iteration = () => {
         const nexNames = names.filter(name=>name.id !== id);
         setNames(nexNames);
     };
+    
 
     const nameList = names.map(name=><li key={name.id}
                                 onDoubleClick={()=>onRemove(name.id)}>

@@ -37,6 +37,7 @@ class MyComponent extends Component {
 
 
 
+
 // MyComponent.defaultProps={ name : 'default_name'};
 // MyComponent.propTypes={name:propTypes.number,
 //                        favoriteNumber:propTypes.number.isRequired};
